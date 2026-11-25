@@ -6,7 +6,9 @@ export type CategoryId =
   | "escavacao"
   | "elevacao"
   | "ferramentas"
-  | "limpeza";
+  | "limpeza"
+  | "equipamentos-hospitalares"
+  | "enfermagem-domicilio";
 
 export type EquipmentKey =
   | "betoneira"
@@ -146,6 +148,10 @@ export const equipment: Record<EquipmentKey, Equipment> = {
 };
 
 export const categories: { id: CategoryId; label: string; image: string }[] = [
+  // Cama de UCi, Pablo Jarrín, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Cama_de_UCi.jpg
+  { id: "equipamentos-hospitalares", label: "Equipamentos Hospitalares", image: "/img/eq/hospitalar.webp" },
+  // Blood pressure monitoring, rawpixel.com, CC0. https://commons.wikimedia.org/wiki/File:Blood_pressure_monitoring.jpg
+  { id: "enfermagem-domicilio", label: "Enfermagem ao Domicílio", image: "/img/eq/enfermagem.webp" },
   { id: "concreto", label: "Concreto", image: img("betoneira") },
   { id: "andaimes", label: "Andaimes", image: img("andaime") },
   { id: "ferramentas", label: "Ferramentas", image: img("furadeira") },
@@ -169,6 +175,8 @@ export const coverFor: Record<CategoryId, string> = {
   escavacao: "/img/biz/patio.webp",
   elevacao: "/img/biz/galpao.webp",
   limpeza: "/img/biz/loja.webp",
+  "equipamentos-hospitalares": "/img/biz/hospitalar.webp",
+  "enfermagem-domicilio": "/img/biz/enfermagem.webp",
 };
 
 export const library = (Object.keys(equipment) as EquipmentKey[]).map((key) => ({

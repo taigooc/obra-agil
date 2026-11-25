@@ -115,7 +115,7 @@ export function DesktopNav({
                 }`}
               >
                 <img src={category.image} alt="" className="size-9 rounded-full object-cover ring-1 ring-border" />
-                <span className="truncate type-subhead font-semibold">{category.label}</span>
+                <span className="line-clamp-2 type-subhead font-semibold leading-tight">{category.label}</span>
               </button>
             );
           })}

@@ -97,11 +97,11 @@ export function Explore() {
             key={category.id}
             type="button"
             onClick={() => nav.push("search", { category: category.id })}
-            className="anim-rise flex w-[82px] shrink-0 cursor-pointer snap-start flex-col items-center gap-1.5 transition-transform active:scale-95 focus-visible:outline-2 focus-visible:outline-primary"
+            className="anim-rise flex w-[96px] shrink-0 cursor-pointer snap-start flex-col items-center gap-1.5 transition-transform active:scale-95 focus-visible:outline-2 focus-visible:outline-primary"
             style={{ animationDelay: `${index * 40}ms` }}
           >
             <Img src={category.image} alt="" className="size-[68px] rounded-full ring-1 ring-border" />
-            <span className="w-full truncate text-center type-caption font-semibold">{category.label}</span>
+            <span className="line-clamp-2 min-h-8 w-full text-center type-caption font-semibold leading-tight">{category.label}</span>
           </button>
         ))}
       </div>

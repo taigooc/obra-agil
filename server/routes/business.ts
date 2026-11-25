@@ -30,6 +30,8 @@ const categoryLabel: Record<string, string> = {
   escavacao: "Escavação",
   elevacao: "Elevação",
   limpeza: "Limpeza",
+  "equipamentos-hospitalares": "Equipamentos Hospitalares",
+  "enfermagem-domicilio": "Enfermagem ao Domicílio",
 };
 
 /** Our own uploads or the built-in gallery. */

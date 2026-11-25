@@ -80,6 +80,7 @@ const productRows: Row[] = [
   ["eletrica", "Equipamentos elétricos", "multimetro,furadeira", "Multímetro;Furadeira de impacto;Alicate amperímetro;Extensão 20 m;Detector de tensão"],
   ["marcenaria", "Marcenaria", "serra,plaina", "Plaina elétrica;Serra esquadria;Tupia de coluna;Grampeador pneumático;Lixadeira de cinta"],
   ["serralheria", "Serralheria", "esmeril,policorte", "Policorte;Esmerilhadeira 7 pol;Dobra manual;Furadeira de bancada;Máscara de solda"],
+  ["equipamentos-hospitalares", "Equipamentos Hospitalares", "uti,hospital,ventilador,home care", "Ventilador pulmonar|Locação entre clínicas, hospitais e para uso em casa.;Monitor de UTI;Bomba de infusão;Concentrador de O2;Cama de UTI;Oxímetro de pulso;Desfibrilador;Aspirador de secreção"],
 ];
 
 const serviceRows: Row[] = [
@@ -156,6 +157,7 @@ const serviceRows: Row[] = [
   ["controle-pragas-jardim", "Controle de pragas de jardim", "formiga,cupim", "Controle de formigas;Controle de cupins de jardim;Pulverização"],
   ["instalacao-tv", "Instalação de TV e internet", "antena,roteador", "Instalação de TV;Configuração de roteador;Ponto de internet;Suporte de televisão"],
   ["assistencia-eletro", "Assistência de eletrodomésticos", "geladeira,maquina", "Conserto de geladeira;Conserto de máquina de lavar;Conserto de micro-ondas;Conserto de fogão"],
+  ["enfermagem-domicilio", "Enfermagem ao Domicílio", "enfermeiro,home care,plantao,curativo", "Visita de enfermagem|Atendimento de enfermagem na casa do paciente.;Curativo domiciliar;Medicação domiciliar;Plantão de enfermagem;Cuidados pós-operatórios;Troca de curativo"],
 ];
 
 function parseNames(raw: string | undefined) {
@@ -208,6 +210,8 @@ const categoryImages: Record<string, string> = {
   escavacao: "/img/eq/escavadeira.webp",
   elevacao: "/img/eq/plataforma.webp",
   limpeza: "/img/eq/lavadora.webp",
+  "equipamentos-hospitalares": "/img/eq/hospitalar.webp",
+  "enfermagem-domicilio": "/img/eq/enfermagem.webp",
 };
 
 for (const category of catalogCategories) {

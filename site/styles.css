@@ -141,13 +141,14 @@ h1, h2, .window h2, .note h3 {
   box-shadow: 0 30px 70px -36px rgb(0 0 0 / 0.45);
 }
 .obi { width: 100%; height: auto; pointer-events: none; filter: drop-shadow(0 16px 18px rgb(14 23 38 / 0.18)); }
-.obi-hero {
-  position: absolute;
-  z-index: 2;
-  left: -12px;
-  bottom: -28px;
-  width: min(176px, 22%);
+.hero-pair {
+  width: min(1040px, calc(100% - 32px));
+  margin: 18px auto 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
 }
+.hero-pair img { width: 100%; height: auto; border-radius: 24px; }
 .window-rent {
   position: absolute;
   right: 5%;
@@ -263,7 +264,7 @@ h1, h2, .window h2, .note h3 {
   bottom: -2%;
   width: min(210px, 46%);
 }
-.shot > img:first-child { width: 100%; height: 420px; object-fit: cover; }
+.shot > img:first-child { width: 100%; height: auto; object-fit: contain; }
 .notes { position: relative; display: grid; gap: 14px; }
 .obi-float {
   position: absolute;
@@ -451,9 +452,9 @@ h1, h2, .window h2, .note h3 {
   .split, .kinds, .foot-grid, .window { grid-template-columns: 1fr; }
   .kinds { grid-template-columns: 1fr 1fr; }
   .window aside { display: none; }
-  .shot > img:first-child { height: 260px; }
+  .shot > img:first-child { height: auto; }
   .band { padding: 64px 0; }
-  .obi-hero { width: 112px; bottom: -4%; }
+  .hero-pair { grid-template-columns: 1fr; }
   .obi-float { position: static; width: 120px; margin: 0 auto 8px; }
   .with-obi, .close .with-obi, .center .with-obi { flex-direction: column; text-align: center; }
 }

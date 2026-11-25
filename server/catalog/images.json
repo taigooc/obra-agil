@@ -2380,5 +2380,713 @@
     "source": "https://live.staticflickr.com/3437/3261148112_9e530d92b7_b.jpg",
     "license": "by",
     "author": "Ente inexistente"
+  },
+  "textura-efeito-pintura-de-porta": {
+    "path": "/img/catalog/textura-efeito-pintura-de-porta.webp",
+    "source": "https://live.staticflickr.com/3011/3257886921_c1d443d38f_b.jpg",
+    "license": "by",
+    "author": "amaianos"
+  },
+  "marceneiros-planejado-closet": {
+    "path": "/img/catalog/marceneiros-planejado-closet.webp",
+    "source": "https://live.staticflickr.com/50/130101390_06e986247d_b.jpg",
+    "license": "by",
+    "author": "Apreche"
+  },
+  "marceneiros-planejado-painel-de-tv": {
+    "path": "/img/catalog/marceneiros-planejado-painel-de-tv.webp",
+    "source": "https://live.staticflickr.com/65535/51883167877_5abbf3a303_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "marceneiros-planejado-nicho": {
+    "path": "/img/catalog/marceneiros-planejado-nicho.webp",
+    "source": "https://live.staticflickr.com/3707/9052690346_b5ca803242_b.jpg",
+    "license": "by",
+    "author": "Elecé"
+  },
+  "vidraceiros-espelho-sob-medida": {
+    "path": "/img/catalog/vidraceiros-espelho-sob-medida.webp",
+    "source": "https://live.staticflickr.com/5242/5342239551_9c0fa88d12_b.jpg",
+    "license": "pdm",
+    "author": "Biblioteca Rector Machado y Nuñez"
+  },
+  "vidraceiros-troca-de-vidro": {
+    "path": "/img/catalog/vidraceiros-troca-de-vidro.webp",
+    "source": "https://live.staticflickr.com/65535/52650826880_4e978c60aa_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "impermeabilizadores-tratamento-de-umidade": {
+    "path": "/img/catalog/impermeabilizadores-tratamento-de-umidade.webp",
+    "source": "https://live.staticflickr.com/4145/5017885266_82761e9a09_b.jpg",
+    "license": "by",
+    "author": "Yenzah"
+  },
+  "paisagistas-plantio": {
+    "path": "/img/catalog/paisagistas-plantio.webp",
+    "source": "https://live.staticflickr.com/1925/44190513814_f278bdffe0_b.jpg",
+    "license": "pdm",
+    "author": "Arquivo Nacional do Brasil"
+  },
+  "piscineiros-tratamento-quimico": {
+    "path": "/img/catalog/piscineiros-tratamento-quimico.webp",
+    "source": "https://live.staticflickr.com/3921/14724997333_044e3def7c_b.jpg",
+    "license": "by",
+    "author": "Tarciso Leão"
+  },
+  "chaveiros-auto-copia-de-chave-canivete": {
+    "path": "/img/catalog/chaveiros-auto-copia-de-chave-canivete.webp",
+    "source": "https://live.staticflickr.com/3364/3632810017_5e94fcde05_b.jpg",
+    "license": "by",
+    "author": "WikiMapa"
+  },
+  "chaveiros-auto-codificacao": {
+    "path": "/img/catalog/chaveiros-auto-codificacao.webp",
+    "source": "https://live.staticflickr.com/8389/8680535213_c02fdf2618_b.jpg",
+    "license": "by",
+    "author": "Antonio Rausch | Visualeeze"
+  },
+  "tecnologia-casa-camera-wi-fi": {
+    "path": "/img/catalog/tecnologia-casa-camera-wi-fi.webp",
+    "source": "https://live.staticflickr.com/2004/1728649236_1eb1fc52de_b.jpg",
+    "license": "by",
+    "author": "andrewmalone"
+  },
+  "suporte-apple-limpeza-interna": {
+    "path": "/img/catalog/suporte-apple-limpeza-interna.webp",
+    "source": "https://live.staticflickr.com/5734/30180214850_180d32ba80_b.jpg",
+    "license": "by",
+    "author": "Creondai's Corp Soluções em IT & Tecnologia"
+  },
+  "assistencia-tv-conserto-de-tv": {
+    "path": "/img/catalog/assistencia-tv-conserto-de-tv.webp",
+    "source": "https://live.staticflickr.com/2349/32764182201_283cd053cb_b.jpg",
+    "license": "by",
+    "author": "Saulo Cruz"
+  },
+  "assistencia-tv-instalacao-na-parede": {
+    "path": "/img/catalog/assistencia-tv-instalacao-na-parede.webp",
+    "source": "https://live.staticflickr.com/2386/2206087969_5ea9800a8e_b.jpg",
+    "license": "by",
+    "author": "mauren veras"
+  },
+  "som-automotivo-troca-de-alto-falante": {
+    "path": "/img/catalog/som-automotivo-troca-de-alto-falante.webp",
+    "source": "https://live.staticflickr.com/804/41315053822_88ca6a4b65_b.jpg",
+    "license": "by",
+    "author": "upslon"
+  },
+  "som-automotivo-camera-de-re": {
+    "path": "/img/catalog/som-automotivo-camera-de-re.webp",
+    "source": "https://live.staticflickr.com/1729/41865252804_2193f3c2cf_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "mecanicos-moto-freio-de-moto": {
+    "path": "/img/catalog/mecanicos-moto-freio-de-moto.webp",
+    "source": "https://live.staticflickr.com/8085/8590026369_8e19a95fa5.jpg",
+    "license": "by",
+    "author": "marlon.net"
+  },
+  "mecanicos-moto-diagnostico": {
+    "path": "/img/catalog/mecanicos-moto-diagnostico.webp",
+    "source": "https://live.staticflickr.com/3360/4601945817_127f00cf93_b.jpg",
+    "license": "by",
+    "author": "Gobierno de la Ciudad de Buenos Aires"
+  },
+  "guincho-leve-guincho-para-carro": {
+    "path": "/img/catalog/guincho-leve-guincho-para-carro.webp",
+    "source": "https://live.staticflickr.com/2709/4107283911_8ab6cda5ed_b.jpg",
+    "license": "by",
+    "author": "Mílton Jung"
+  },
+  "motorista-app-evento-com-motorista": {
+    "path": "/img/catalog/motorista-app-evento-com-motorista.webp",
+    "source": "https://live.staticflickr.com/65535/52129861755_8188c67737_b.jpg",
+    "license": "pdm",
+    "author": "O Tribunal da Democracia"
+  },
+  "motoboy-entrega-de-documento": {
+    "path": "/img/catalog/motoboy-entrega-de-documento.webp",
+    "source": "https://live.staticflickr.com/65535/51671092678_22735fd9dd.jpg",
+    "license": "cc0",
+    "author": "rupertomiller@hotmail. 6672 6121 hijo 66852945"
+  },
+  "motoboy-entrega-urgente": {
+    "path": "/img/catalog/motoboy-entrega-urgente.webp",
+    "source": "https://live.staticflickr.com/4210/35282673635_1d057ba335.jpg",
+    "license": "pdm",
+    "author": "Leales.org • tu guía animable"
+  },
+  "passadeiras-passar-roupa-em-domicilio": {
+    "path": "/img/catalog/passadeiras-passar-roupa-em-domicilio.webp",
+    "source": "https://live.staticflickr.com/3577/3437612809_ae7ca412f0_b.jpg",
+    "license": "by",
+    "author": "Renata F Nascimento"
+  },
+  "passadeiras-pecas-delicadas": {
+    "path": "/img/catalog/passadeiras-pecas-delicadas.webp",
+    "source": "https://live.staticflickr.com/4387/35577066724_79faf466a5_b.jpg",
+    "license": "by",
+    "author": "marciookabe"
+  },
+  "limpeza-vidros-limpeza-de-janelas": {
+    "path": "/img/catalog/limpeza-vidros-limpeza-de-janelas.webp",
+    "source": "https://live.staticflickr.com/3688/19897647286_52ecf02488_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "higienizacao-higienizacao-de-tapete": {
+    "path": "/img/catalog/higienizacao-higienizacao-de-tapete.webp",
+    "source": "https://live.staticflickr.com/65535/52625304594_8b102e9914_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "jardinagem-poda-poda-de-arvore": {
+    "path": "/img/catalog/jardinagem-poda-poda-de-arvore.webp",
+    "source": "https://live.staticflickr.com/1863/43922864194_9d5fa748e4_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "cabeleireiros-noiva-penteado-de-noiva": {
+    "path": "/img/catalog/cabeleireiros-noiva-penteado-de-noiva.webp",
+    "source": "https://live.staticflickr.com/7579/26976789225_5db9704131_b.jpg",
+    "license": "pdm",
+    "author": "fernandoferreirafotografia.com.br"
+  },
+  "cabeleireiros-noiva-penteado-de-festa": {
+    "path": "/img/catalog/cabeleireiros-noiva-penteado-de-festa.webp",
+    "source": "https://live.staticflickr.com/4504/37333532974_90ee4b3207_b.jpg",
+    "license": "by",
+    "author": "paulovitorg"
+  },
+  "cabeleireiros-noiva-escova-para-evento": {
+    "path": "/img/catalog/cabeleireiros-noiva-escova-para-evento.webp",
+    "source": "https://live.staticflickr.com/65535/46953782154_7090f647a3_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "maquiagem-evento-maquiagem-de-festa": {
+    "path": "/img/catalog/maquiagem-evento-maquiagem-de-festa.webp",
+    "source": "https://live.staticflickr.com/3920/14333578355_47d1fb377b_b.jpg",
+    "license": "by",
+    "author": "Igor Menezes Fotógrafo"
+  },
+  "maquiagem-evento-maquiagem-de-formatura": {
+    "path": "/img/catalog/maquiagem-evento-maquiagem-de-formatura.webp",
+    "source": "https://live.staticflickr.com/2530/4225158669_10a569a4fd.jpg",
+    "license": "by",
+    "author": "Jacqueline Sanches"
+  },
+  "fotografos-newborn-ensaio-newborn": {
+    "path": "/img/catalog/fotografos-newborn-ensaio-newborn.webp",
+    "source": "https://live.staticflickr.com/299/20370479385_110dabbdb6.jpg",
+    "license": "pdm",
+    "author": "Celso Ricardo - Newborn Photography"
+  },
+  "fotografos-newborn-ensaio-gestante": {
+    "path": "/img/catalog/fotografos-newborn-ensaio-gestante.webp",
+    "source": "https://live.staticflickr.com/4184/34582431052_6f9af415b9_b.jpg",
+    "license": "by",
+    "author": "Marcela Ramos - Publimagem"
+  },
+  "fotografos-newborn-ensaio-de-familia": {
+    "path": "/img/catalog/fotografos-newborn-ensaio-de-familia.webp",
+    "source": "https://live.staticflickr.com/7407/9494736389_d4205748f5_b.jpg",
+    "license": "by",
+    "author": "Ligia Delgado { fotografia }"
+  },
+  "fotografos-newborn-smash-the-cake": {
+    "path": "/img/catalog/fotografos-newborn-smash-the-cake.webp",
+    "source": "https://live.staticflickr.com/7030/13834764003_5df37aba5a_b.jpg",
+    "license": "by",
+    "author": "Igor Menezes Fotógrafo"
+  },
+  "filmagem-social-filmagem-de-15-anos": {
+    "path": "/img/catalog/filmagem-social-filmagem-de-15-anos.webp",
+    "source": "https://live.staticflickr.com/65535/51900448457_0232a5f423_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "filmagem-social-entrega-same-day": {
+    "path": "/img/catalog/filmagem-social-entrega-same-day.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/Premio_Mart%C3%ADn_Fierro_Federal_2026_-_Miriam_Molero_de_APTRA_entrega_la_estatuilla_a_Federico_Rosolani_de_%C2%ABLa_tarde_de_La_100%C2%BB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "by",
+    "author": "Horacio Cambeiro"
+  },
+  "dj-formatura-dj-de-formatura": {
+    "path": "/img/catalog/dj-formatura-dj-de-formatura.webp",
+    "source": "https://live.staticflickr.com/207/492040199_abea1d719d_b.jpg",
+    "license": "by",
+    "author": "Gh0stman"
+  },
+  "dj-formatura-dj-de-aniversario": {
+    "path": "/img/catalog/dj-formatura-dj-de-aniversario.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/19_03_2024_-_Anivers%C3%A1rio_de_Bras%C3%ADlia_ter%C3%A1_mega_show_do_DJ_Alok_na_Esplanada_dos_Minist%C3%A9rios_%2853596862497%29_%28cropped%29.jpg",
+    "license": "by",
+    "author": "Agência Brasília from Brasília, Brasil"
+  },
+  "dj-formatura-som-e-luz-basicos": {
+    "path": "/img/catalog/dj-formatura-som-e-luz-basicos.webp",
+    "source": "https://live.staticflickr.com/7752/27074761546_f4ae1c718c_b.jpg",
+    "license": "by",
+    "author": "ADICAE"
+  },
+  "musicos-casamento-violino-na-cerimonia": {
+    "path": "/img/catalog/musicos-casamento-violino-na-cerimonia.webp",
+    "source": "https://live.staticflickr.com/65535/51397787585_32a13801c7_b.jpg",
+    "license": "pdm",
+    "author": "MusicaMatrimoniPuglia"
+  },
+  "musicos-casamento-voz-e-violao": {
+    "path": "/img/catalog/musicos-casamento-voz-e-violao.webp",
+    "source": "https://live.staticflickr.com/2226/2341767231_1bf204e7ab_b.jpg",
+    "license": "by",
+    "author": "Marco Gomes"
+  },
+  "musicos-casamento-entrada-da-noiva": {
+    "path": "/img/catalog/musicos-casamento-entrada-da-noiva.webp",
+    "source": "https://live.staticflickr.com/7/11869190_9d440250f6_b.jpg",
+    "license": "by",
+    "author": "elicrisko"
+  },
+  "buffet-mini-coffee-break": {
+    "path": "/img/catalog/buffet-mini-coffee-break.webp",
+    "source": "https://live.staticflickr.com/9/17379823_6924400d3a_b.jpg",
+    "license": "by",
+    "author": "mickeysucks"
+  },
+  "buffet-mini-bolo-e-doces": {
+    "path": "/img/catalog/buffet-mini-bolo-e-doces.webp",
+    "source": "https://live.staticflickr.com/2100/2521877495_8c6cd34784_m.jpg",
+    "license": "by",
+    "author": "TinyDelights"
+  },
+  "buffet-mini-estacao-de-brigadeiros": {
+    "path": "/img/catalog/buffet-mini-estacao-de-brigadeiros.webp",
+    "source": "https://live.staticflickr.com/3780/9600312152_baf774b5fe_b.jpg",
+    "license": "by",
+    "author": "Mauro Cateb"
+  },
+  "churrasqueiro-churrasco-para-30-pessoas": {
+    "path": "/img/catalog/churrasqueiro-churrasco-para-30-pessoas.webp",
+    "source": "https://live.staticflickr.com/2132/2823120299_a6322c3a1d_b.jpg",
+    "license": "by",
+    "author": "elbragon"
+  },
+  "confeiteiros-bolo-decorado": {
+    "path": "/img/catalog/confeiteiros-bolo-decorado.webp",
+    "source": "https://live.staticflickr.com/1640/25846391113_700f5074ea_b.jpg",
+    "license": "by",
+    "author": "Ana Pismel"
+  },
+  "confeiteiros-naked-cake": {
+    "path": "/img/catalog/confeiteiros-naked-cake.webp",
+    "source": "https://live.staticflickr.com/3869/15291535675_edffc06ea9_b.jpg",
+    "license": "by",
+    "author": "Bolo de Caneca Confeitaria"
+  },
+  "confeiteiros-docinhos": {
+    "path": "/img/catalog/confeiteiros-docinhos.webp",
+    "source": "https://live.staticflickr.com/6165/6204321010_d74133893d_b.jpg",
+    "license": "by",
+    "author": "Marina Aguiar Araujo"
+  },
+  "confeiteiros-cupcake": {
+    "path": "/img/catalog/confeiteiros-cupcake.webp",
+    "source": "https://live.staticflickr.com/85/249112510_600f3b553f.jpg",
+    "license": "by",
+    "author": "shimelle"
+  },
+  "bartenders-open-bar": {
+    "path": "/img/catalog/bartenders-open-bar.webp",
+    "source": "https://live.staticflickr.com/7076/14053707752_fa1eb2e289_b.jpg",
+    "license": "by",
+    "author": "Free Photo Revolution"
+  },
+  "bartenders-bar-de-drinks": {
+    "path": "/img/catalog/bartenders-bar-de-drinks.webp",
+    "source": "https://live.staticflickr.com/5341/10087879804_4c05c70d43.jpg",
+    "license": "by",
+    "author": "SLR Jester"
+  },
+  "bartenders-bar-de-sucos": {
+    "path": "/img/catalog/bartenders-bar-de-sucos.webp",
+    "source": "https://live.staticflickr.com/9/85452992_ea31e05a34.jpg",
+    "license": "by",
+    "author": "Jeff Belmonte"
+  },
+  "garcons-copeira": {
+    "path": "/img/catalog/garcons-copeira.webp",
+    "source": "https://live.staticflickr.com/65535/52086683816_dac7e8ecb9_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "garcons-montagem-de-mesa": {
+    "path": "/img/catalog/garcons-montagem-de-mesa.webp",
+    "source": "https://live.staticflickr.com/7735/17129128529_392ea28f41_b.jpg",
+    "license": "by",
+    "author": "nuclimeditorial"
+  },
+  "decoradores-decoracao-com-baloes": {
+    "path": "/img/catalog/decoradores-decoracao-com-baloes.webp",
+    "source": "https://live.staticflickr.com/706/22931522551_473c06df12.jpg",
+    "license": "pdm",
+    "author": "viiny_nunes"
+  },
+  "decoradores-mesa-do-bolo": {
+    "path": "/img/catalog/decoradores-mesa-do-bolo.webp",
+    "source": "https://live.staticflickr.com/4010/4250833529_8a39b89d1c_b.jpg",
+    "license": "by",
+    "author": "Le Magritte"
+  },
+  "decoradores-arco": {
+    "path": "/img/catalog/decoradores-arco.webp",
+    "source": "https://live.staticflickr.com/3863/15319657182_3b68673e12_b.jpg",
+    "license": "by",
+    "author": "JLH PHOTO"
+  },
+  "cerimonialistas-cerimonial-do-dia": {
+    "path": "/img/catalog/cerimonialistas-cerimonial-do-dia.webp",
+    "source": "https://live.staticflickr.com/7902/32803722938_434762d11d_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "cerimonialistas-organizacao-de-15-anos": {
+    "path": "/img/catalog/cerimonialistas-organizacao-de-15-anos.webp",
+    "source": "https://live.staticflickr.com/65535/51498273915_31a5fae39b_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "recreadores-oficina-de-pintura": {
+    "path": "/img/catalog/recreadores-oficina-de-pintura.webp",
+    "source": "https://live.staticflickr.com/5283/5236284603_56ee109f58_b.jpg",
+    "license": "by",
+    "author": "Prefeitura de Olinda"
+  },
+  "personagens-contacao-de-historia": {
+    "path": "/img/catalog/personagens-contacao-de-historia.webp",
+    "source": "https://live.staticflickr.com/3397/3188390028_002c835127_b.jpg",
+    "license": "by",
+    "author": "Sam Shiraishi (@samegui @maecomfilhos)"
+  },
+  "personagens-pintura-facial": {
+    "path": "/img/catalog/personagens-pintura-facial.webp",
+    "source": "https://live.staticflickr.com/3091/2845217197_09158d58bf_b.jpg",
+    "license": "by",
+    "author": "srgpicker"
+  },
+  "pet-sitter-passeio": {
+    "path": "/img/catalog/pet-sitter-passeio.webp",
+    "source": "https://live.staticflickr.com/65535/52448192005_c55accc661_b.jpg",
+    "license": "by",
+    "author": "Assessoria de Comunicação - MPPE"
+  },
+  "pet-sitter-hospedagem-na-casa-do-tutor": {
+    "path": "/img/catalog/pet-sitter-hospedagem-na-casa-do-tutor.webp",
+    "source": "https://live.staticflickr.com/8023/7531718688_551a54e3f5_b.jpg",
+    "license": "by",
+    "author": "Cesar I. Martins"
+  },
+  "banho-tosa-domicilio-banho-e-tosa": {
+    "path": "/img/catalog/banho-tosa-domicilio-banho-e-tosa.webp",
+    "source": "https://live.staticflickr.com/6181/6117162138_a7c2cecf09_b.jpg",
+    "license": "by",
+    "author": "WikiMapa"
+  },
+  "babas-baba-por-periodo": {
+    "path": "/img/catalog/babas-baba-por-periodo.webp",
+    "source": "https://live.staticflickr.com/3025/3098740925_fec4dc9f04_b.jpg",
+    "license": "by",
+    "author": "!unite"
+  },
+  "babas-baba-eventual": {
+    "path": "/img/catalog/babas-baba-eventual.webp",
+    "source": "https://live.staticflickr.com/5835/31209912682_51039bd2d0_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "fisioterapeutas-fisioterapia-ortopedica": {
+    "path": "/img/catalog/fisioterapeutas-fisioterapia-ortopedica.webp",
+    "source": "https://live.staticflickr.com/4182/34660499466_138dd084ee_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "nutricionistas-retorno": {
+    "path": "/img/catalog/nutricionistas-retorno.webp",
+    "source": "https://live.staticflickr.com/3570/3285113200_1b6cd1c9e8.jpg",
+    "license": "by",
+    "author": "morrissey"
+  },
+  "psicologos-sessao-presencial": {
+    "path": "/img/catalog/psicologos-sessao-presencial.webp",
+    "source": "https://live.staticflickr.com/65535/52114521997_aef85ecea2_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "psicologos-sessao-online": {
+    "path": "/img/catalog/psicologos-sessao-online.webp",
+    "source": "https://live.staticflickr.com/65535/50043967076_ceeeaa850f_b.jpg",
+    "license": "pdm",
+    "author": "assembleiaam"
+  },
+  "fonoaudiologos-avaliacao-de-fala": {
+    "path": "/img/catalog/fonoaudiologos-avaliacao-de-fala.webp",
+    "source": "https://live.staticflickr.com/65535/52618233634_ebb1ca9d8d_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "dentistas-avaliacao": {
+    "path": "/img/catalog/dentistas-avaliacao.webp",
+    "source": "https://live.staticflickr.com/65535/52103308093_78c6baee61_b.jpg",
+    "license": "pdm",
+    "author": "Assembleia Legislativa do Paraná (ALEP)"
+  },
+  "professores-musica-aula-de-violao": {
+    "path": "/img/catalog/professores-musica-aula-de-violao.webp",
+    "source": "https://live.staticflickr.com/7232/6887629876_4ef09fe77a_b.jpg",
+    "license": "by",
+    "author": "Aline Monique"
+  },
+  "professores-musica-aula-de-bateria": {
+    "path": "/img/catalog/professores-musica-aula-de-bateria.webp",
+    "source": "https://live.staticflickr.com/7206/6942607677_e9a45782df_b.jpg",
+    "license": "by",
+    "author": "marcoslira2012"
+  },
+  "professores-idiomas-aula-de-ingles": {
+    "path": "/img/catalog/professores-idiomas-aula-de-ingles.webp",
+    "source": "https://live.staticflickr.com/3485/3272025731_51d441fa5a.jpg",
+    "license": "by",
+    "author": "Thiago Melo"
+  },
+  "professores-idiomas-conversacao": {
+    "path": "/img/catalog/professores-idiomas-conversacao.webp",
+    "source": "https://live.staticflickr.com/6089/6096016186_fec6857687_b.jpg",
+    "license": "by",
+    "author": "marciookabe"
+  },
+  "professores-idiomas-preparacao-para-prova": {
+    "path": "/img/catalog/professores-idiomas-preparacao-para-prova.webp",
+    "source": "https://live.staticflickr.com/8368/8432850920_b4ce56c535.jpg",
+    "license": "by",
+    "author": "markhillary"
+  },
+  "reforco-redacao": {
+    "path": "/img/catalog/reforco-redacao.webp",
+    "source": "https://live.staticflickr.com/65535/48935573753_9c4f8b87c4_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "informatica-aulas-aula-de-excel": {
+    "path": "/img/catalog/informatica-aulas-aula-de-excel.webp",
+    "source": "https://live.staticflickr.com/7533/16022584350_cdfa49aa40_b.jpg",
+    "license": "by",
+    "author": "escoladedados"
+  },
+  "informatica-aulas-aula-de-informatica-basica": {
+    "path": "/img/catalog/informatica-aulas-aula-de-informatica-basica.webp",
+    "source": "https://live.staticflickr.com/4069/4479674518_73c69e2b39.jpg",
+    "license": "by",
+    "author": "ResoluteSupportMedia"
+  },
+  "informatica-aulas-aula-para-idosos": {
+    "path": "/img/catalog/informatica-aulas-aula-para-idosos.webp",
+    "source": "https://live.staticflickr.com/2176/5762163682_486fd58434_b.jpg",
+    "license": "by",
+    "author": "Prefeitura de Olinda"
+  },
+  "consultores-mei-regularizacao": {
+    "path": "/img/catalog/consultores-mei-regularizacao.webp",
+    "source": "https://live.staticflickr.com/65535/54116896929_0417bbfdb1_b.jpg",
+    "license": "pdm",
+    "author": "Tribunal de Justiça do Estado do Pará"
+  },
+  "consultores-mei-declaracao-anual": {
+    "path": "/img/catalog/consultores-mei-declaracao-anual.webp",
+    "source": "https://live.staticflickr.com/8256/10197830463_32dca99d60.jpg",
+    "license": "by",
+    "author": "STJNoticias"
+  },
+  "consultores-mei-nota-fiscal": {
+    "path": "/img/catalog/consultores-mei-nota-fiscal.webp",
+    "source": "https://live.staticflickr.com/7832/32269223417_feb63a260c_b.jpg",
+    "license": "by",
+    "author": "Governo do Estado de São Paulo"
+  },
+  "contadores-declaracao-de-imposto-de-renda": {
+    "path": "/img/catalog/contadores-declaracao-de-imposto-de-renda.webp",
+    "source": "https://live.staticflickr.com/8256/10197830463_32dca99d60.jpg",
+    "license": "by",
+    "author": "STJNoticias"
+  },
+  "advogados-familia-consulta-de-familia": {
+    "path": "/img/catalog/advogados-familia-consulta-de-familia.webp",
+    "source": "https://live.staticflickr.com/2538/4236987384_ea41f1f4e4_b.jpg",
+    "license": "by",
+    "author": "Biblioteca Pública de Guadalajara"
+  },
+  "advogados-familia-elaboracao-de-acordo": {
+    "path": "/img/catalog/advogados-familia-elaboracao-de-acordo.webp",
+    "source": "https://live.staticflickr.com/2637/4150306929_2427972bc4_b.jpg",
+    "license": "by",
+    "author": "Prefeitura de Olinda"
+  },
+  "advogados-trabalho-consulta-trabalhista": {
+    "path": "/img/catalog/advogados-trabalho-consulta-trabalhista.webp",
+    "source": "https://live.staticflickr.com/2840/32729645044_2ef2eed859_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "advogados-trabalho-orientacao-de-contrato": {
+    "path": "/img/catalog/advogados-trabalho-orientacao-de-contrato.webp",
+    "source": "https://live.staticflickr.com/65535/49785084761_432a24d6d6_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "designers-interior-consultoria-de-ambiente": {
+    "path": "/img/catalog/designers-interior-consultoria-de-ambiente.webp",
+    "source": "https://live.staticflickr.com/65535/48126731366_ee070484e9_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "designers-interior-projeto-de-sala": {
+    "path": "/img/catalog/designers-interior-projeto-de-sala.webp",
+    "source": "https://live.staticflickr.com/2884/33979245555_87e87bf614_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "designers-interior-lista-de-compras": {
+    "path": "/img/catalog/designers-interior-lista-de-compras.webp",
+    "source": "https://live.staticflickr.com/4029/4562437323_aa4eb964c4_b.jpg",
+    "license": "by",
+    "author": "Morgy"
+  },
+  "designers-grafico-logo": {
+    "path": "/img/catalog/designers-grafico-logo.webp",
+    "source": "https://live.staticflickr.com/5290/5260990994_37d099bfec.jpg",
+    "license": "by",
+    "author": "SoftFacade"
+  },
+  "designers-grafico-cartao-de-visita": {
+    "path": "/img/catalog/designers-grafico-cartao-de-visita.webp",
+    "source": "https://live.staticflickr.com/5548/9630342198_03a6ef284f.jpg",
+    "license": "by",
+    "author": "Heverton Woss >>"
+  },
+  "designers-grafico-arte-para-instagram": {
+    "path": "/img/catalog/designers-grafico-arte-para-instagram.webp",
+    "source": "https://live.staticflickr.com/4323/35336042364_c7a1c0ea48_b.jpg",
+    "license": "pdm",
+    "author": "espaciosparaelarte"
+  },
+  "designers-grafico-cardapio": {
+    "path": "/img/catalog/designers-grafico-cardapio.webp",
+    "source": "https://live.staticflickr.com/4065/4645436557_6718b2448b_b.jpg",
+    "license": "by",
+    "author": "Tay"
+  },
+  "desenvolvedores-site-landing-page": {
+    "path": "/img/catalog/desenvolvedores-site-landing-page.webp",
+    "source": "https://live.staticflickr.com/7244/6924415704_f2d472e928_b.jpg",
+    "license": "by",
+    "author": "Gavin Llewellyn"
+  },
+  "desenvolvedores-site-site-institucional": {
+    "path": "/img/catalog/desenvolvedores-site-site-institucional.webp",
+    "source": "https://live.staticflickr.com/65535/52181382637_daecc1c365_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "desenvolvedores-site-loja-virtual-simples": {
+    "path": "/img/catalog/desenvolvedores-site-loja-virtual-simples.webp",
+    "source": "https://live.staticflickr.com/7086/7223506250_3f26d524bd_b.jpg",
+    "license": "by",
+    "author": "Kel Martins"
+  },
+  "desenvolvedores-app-orcamento-de-aplicativo": {
+    "path": "/img/catalog/desenvolvedores-app-orcamento-de-aplicativo.webp",
+    "source": "https://live.staticflickr.com/65535/52308783540_84f6161f00_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "redatores-texto-para-site": {
+    "path": "/img/catalog/redatores-texto-para-site.webp",
+    "source": "https://live.staticflickr.com/3004/2307041483_432b1a32e8_b.jpg",
+    "license": "by",
+    "author": "Cristóbal Cobo Romaní"
+  },
+  "redatores-revisao": {
+    "path": "/img/catalog/redatores-revisao.webp",
+    "source": "https://live.staticflickr.com/7290/8742101937_573dd0d132_b.jpg",
+    "license": "by",
+    "author": "Aécio Neves - Senador"
+  },
+  "redatores-legenda": {
+    "path": "/img/catalog/redatores-legenda.webp",
+    "source": "https://live.staticflickr.com/6002/5954356327_ed6e1c04fc_b.jpg",
+    "license": "cc0",
+    "author": "Provenance Online Project"
+  },
+  "tradutores-traducao-de-documento": {
+    "path": "/img/catalog/tradutores-traducao-de-documento.webp",
+    "source": "https://live.staticflickr.com/65535/53971073433_5af1a808c6_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "sapateiros-locais-colagem": {
+    "path": "/img/catalog/sapateiros-locais-colagem.webp",
+    "source": "https://live.staticflickr.com/3429/3239598583_f36a4fa2fa_b.jpg",
+    "license": "by",
+    "author": "Joãomagagnin"
+  },
+  "assistencia-geladeira-geladeira-que-nao-gela": {
+    "path": "/img/catalog/assistencia-geladeira-geladeira-que-nao-gela.webp",
+    "source": "https://live.staticflickr.com/3226/2321166486_894766d78d.jpg",
+    "license": "by",
+    "author": "Marcio Cabral de Moura"
+  },
+  "assistencia-geladeira-carga-de-gas": {
+    "path": "/img/catalog/assistencia-geladeira-carga-de-gas.webp",
+    "source": "https://live.staticflickr.com/1785/41364901560_e6d6730495_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "assistencia-lavadora-maquina-que-nao-centrifuga": {
+    "path": "/img/catalog/assistencia-lavadora-maquina-que-nao-centrifuga.webp",
+    "source": "https://live.staticflickr.com/4191/33518320183_8bc5a828f8_b.jpg",
+    "license": "by",
+    "author": "@N3T1O"
+  },
+  "assistencia-lavadora-vazamento": {
+    "path": "/img/catalog/assistencia-lavadora-vazamento.webp",
+    "source": "https://live.staticflickr.com/2660/4040879160_70942c5f4f.jpg",
+    "license": "by",
+    "author": "Mílton Jung"
+  },
+  "energia-solar-visita-visita-tecnica": {
+    "path": "/img/catalog/energia-solar-visita-visita-tecnica.webp",
+    "source": "https://live.staticflickr.com/65535/50545168117_3dac2e5590_b.jpg",
+    "license": "pdm",
+    "author": "MINISTERIO DE LA PRODUCCIÓN - PRODUCE"
+  },
+  "seguranca-cftv-camera-adicional": {
+    "path": "/img/catalog/seguranca-cftv-camera-adicional.webp",
+    "source": "https://live.staticflickr.com/8439/29043280696_3141f81867_b.jpg",
+    "license": "by",
+    "author": "Compudemano"
+  },
+  "seguranca-cftv-acesso-pelo-celular": {
+    "path": "/img/catalog/seguranca-cftv-acesso-pelo-celular.webp",
+    "source": "https://live.staticflickr.com/3884/15007669926_7f0e274207_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
+  },
+  "antennistas-cabo-e-conector": {
+    "path": "/img/catalog/antennistas-cabo-e-conector.webp",
+    "source": "https://live.staticflickr.com/65535/54556230535_2855740ba9_b.jpg",
+    "license": "by",
+    "author": "Senado Federal"
   }
 }

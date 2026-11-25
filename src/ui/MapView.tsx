@@ -62,15 +62,10 @@ export function MapView({
       keyboard: canMove,
       zoomSnap: 0.5,
     }).setView([start.lat, start.lng], startZoom);
-    const tiles = L.tileLayer("https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png", {
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 19,
-      attribution: "© Stadia Maps © OpenMapTiles © OpenStreetMap",
+      attribution: "© OpenStreetMap",
     }).addTo(map);
-    tiles.once("tileerror", () => {
-      tiles.setUrl("https://tile.openstreetmap.org/{z}/{x}/{y}.png");
-      map.attributionControl.removeAttribution("© Stadia Maps © OpenMapTiles © OpenStreetMap");
-      map.attributionControl.addAttribution("© OpenStreetMap");
-    });
     map.attributionControl.setPrefix(false);
     layerRef.current = L.layerGroup().addTo(map);
     mapRef.current = map;

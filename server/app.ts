@@ -85,7 +85,7 @@ export function createApp() {
               "script-src": ["'self'", "https://sdk.mercadopago.com", ...mercadoPagoHosts],
               "frame-src": ["'self'", ...mercadoPagoHosts],
               "connect-src": ["'self'", "https://api.mercadopago.com", "https://nominatim.openstreetmap.org", ...mercadoPagoHosts],
-              "img-src": ["'self'", "data:", "blob:", "https://tiles.stadiamaps.com", "https://*.tile.openstreetmap.org", "https://tile.openstreetmap.org", ...mercadoPagoHosts],
+              "img-src": ["'self'", "data:", "blob:", "https://tile.openstreetmap.org", ...mercadoPagoHosts],
               "style-src": ["'self'", "'unsafe-inline'"],
               "font-src": ["'self'", "data:"],
             },

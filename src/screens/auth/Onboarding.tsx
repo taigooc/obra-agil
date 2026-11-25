@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, type CSSProperties } from "react";
 import { useWideScreen } from "../../lib/desktop.ts";
 import { postNative } from "../../lib/native.ts";
 import { runTransition } from "../../lib/nav.tsx";
@@ -56,7 +56,7 @@ export function Onboarding() {
     <div className="absolute inset-0 flex items-center justify-center p-6">
       <div
         className="w-full max-w-[440px] overflow-hidden rounded-[28px] border border-border bg-background elev-2"
-        style={{ "--safe-top": "0px", "--safe-bottom": "0px" }}
+        style={{ "--safe-top": "0px", "--safe-bottom": "0px" } as CSSProperties}
       >
         {flow}
       </div>
